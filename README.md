@@ -23,7 +23,7 @@
 <!-- Portfolio Link -->
 <p align="center">
   <b>🌐 Portfolio</b><br>
-  Check out my [(https://relaxed-volhard-022e59.netlify.app/) for more in-depth projects and articles.
+  Check out my https://relaxed-volhard-022e59.netlify.app for more in-depth projects and articles.
 </p>
 
 <!-- Let's Connect -->
